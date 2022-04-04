@@ -1,4 +1,4 @@
-# interactive-googlemap-360
+# interactive-googlemap-S.U
 Interactive map for a client using google map api <br>
 You can view the live map here <a href="https://zmaktr.github.io/interactive-googlemap-S.U"> here </a> <br>
 <br>
